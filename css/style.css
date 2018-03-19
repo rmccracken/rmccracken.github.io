@@ -463,7 +463,7 @@ article.card {
 }
 
 article.card .card-img-top {
-	height: 100%;
+	height: 250px;
 }
 
 article.card .card-title {
